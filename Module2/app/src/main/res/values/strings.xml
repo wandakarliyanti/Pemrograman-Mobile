@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Praktikum-Mobile-DiceRoller</string>
+    <string name="rollDice">ROLL DICE</string>
+    <string name="diceRoller">Dice Roller</string>
+</resources>
